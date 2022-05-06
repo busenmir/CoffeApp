@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViewBinding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="en_lezzetli_kahveler">En Lezzetli Kahveler!</string>
+    <string name="hadi_ok_bekledik">Hadi Çok Bekledik</string>
+    <string name="t_kla_kap_nda">Tıkla Kapında</string>
+    <string name="kahve_se_iminizi_giriniz">Kahve Seçiminizi Giriniz</string>
+    <string name="americano">Americano\n Özel kahve çekirdekleri ile öğütülmüş uykunuzu açmaya tam hazır kahve !</string>
+    <string name="latte">Latte \n Öğütülmüş kahve çekirdekleri ile sütün yumuşak uyumuna hazır mısınız ?</string>
+    <string name="Mocha">White Mocha \n Tatlı bir başlangıç yapmaya ne dersin ? Beyaz çikolata,süt ve kahve uyumu..</string>
+    <string name="misto">Misto \n Sadeciyim diyenlere az süt ve kahve ile hazır !</string>
+    <string name="sonuc">KAHVENİZ EŞSİZ ÇEKİRDEKLER İLE HAZIRLANIYOR</string>
+    <string name="s_par_n_z">SİPARİŞİNİZ</string>
+    <string name="sipari_ver">Sipariş Ver</string>
+    <string name="yeni_bir_sipari">Yeni Bir Sipariş ?</string>
+</resources>
